@@ -7,7 +7,7 @@
 */
 
 #include <stdio.h>
-#define BITMAX 4
+#define BITMAX 4 // Set this number to your liking :)
 
 void printBinary(unsigned long num);
 
